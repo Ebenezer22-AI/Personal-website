@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio Showcase",
+  "description": "Clean, modern developer and creator personal portfolio featuring project cards, skills list, fun facts, media placeholders, and contact info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
